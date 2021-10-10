@@ -1,0 +1,49 @@
+----- Linux Commands -------
+touch : used to create files
+ls : list out all files
+ll : long listing
+cat : Concatenate file content
+cd : current working directory
+pwd : present working directory
+cp : copy files and directories
+mv : move or rename a file or directory
+rm : remove file
+mkdir : create directories
+rmdir : remove directory
+rm -rf : remove directories
+head : to print specific lines
+tail : to print specific lines
+sed : to print specific lines and delete specific lines
+cut : to print column based filtering
+awk : to print column based filtering
+vi : editor
+df : to check disk information
+du : to check disk utilization
+grep : search for specific pattern
+echo : display line of text on the terminal
+uniq : used to remove all repeated lines
+sort : used to sort the data
+exit : logout from the terminal
+whoami : display current user name
+ifconfig : ip address
+chown : change ownership
+chgrp : change group
+chmod : change modification
+Sighup : Usually every process in the linux system is a SIGHUP ( Signal HangUp) which is responsible for terminating the p         rocess after clsoing the terminal.
+Nohup : Responsible for runs the process even after closing the terminal.
+type : To display command's type
+which : To display an executable location
+man : To display program's manual page
+crontab : crontab is a schedular which is used to schedule the jobs.
+ln-s : to create a soft link
+ln : to create hard link
+curl : using curl command we can download the files
+pipes : pipes are used to send the output of one command to another command.
+ps : process management
+top : used to show the active linux process dynamic real time view of the running system.
+uptime : from how long system has been running
+ssh : secure shell used to connect to a remote computer securely.
+telnet : used to create a remote connection with a system over TCP / IP network.
+ping : used to check whether connection to the server is working or not.
+FTP : File Transfer Protocol preferred protocol for data transfer amongst the computers.
+
