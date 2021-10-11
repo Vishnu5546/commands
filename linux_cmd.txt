@@ -85,4 +85,4 @@ Ctrl+b : Move the cursor backward one character.
 ls -R : list all sub-directories inside the directory.
 ls -r : list all files in reverse order.
 ls -ls : Display files based on the size.
-
+logout : logout from the terminal.
