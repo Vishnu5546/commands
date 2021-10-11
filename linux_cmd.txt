@@ -71,4 +71,18 @@ su -username : switch to another user.
 su username : Temporarly login.
 scriptname & : To run a script in the background.
 yum : YUM - YellowDog Update Modifier  is helpful for installing packages.
+cat /etc/*release : To check vendor of the operating system.
+cat /proc/cpuinfo : To check cpu information.
+cat /proc/meminfo : To check memory information.
+uname -i : To check architecture whether it is 32 bit or 64 bit.
+Ctrl+a : To go to the begining of a line.
+Ctrl+e : To go to the end of a line.
+Ctrl+x Toggle between current cursor position and begining of the line.
+Alt+x : Move the cursor forward one word.
+Alt+b : Move the cursor backward one word.
+Ctrl+f : Move the cursor forword one character.
+Ctrl+b : Move the cursor backward one character.
+ls -R : list all sub-directories inside the directory.
+ls -r : list all files in reverse order.
+ls -ls : Display files based on the size.
 
