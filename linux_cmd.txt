@@ -46,4 +46,23 @@ ssh : secure shell used to connect to a remote computer securely.
 telnet : used to create a remote connection with a system over TCP / IP network.
 ping : used to check whether connection to the server is working or not.
 FTP : File Transfer Protocol preferred protocol for data transfer amongst the computers.
+userdel : To delete particular user
+passwd username : Create a password for particular user.
+groupdel : To delete a particular group
+SFTP : SSH File Transfer Protocol allows you to perform a range of operations on remote files aand resume file transfers also.
+SCP : Secure Copy Protocol copy files or directories from oner server to another server.
+useradd : To add a user for particular group.
+NETSTAT: Netstat is a networking tool used for trouble shoooting and configuaration management.
+lsblk : List information about all the available or specified block devices.It shows the partition details of the disk.
+SSH Keygen : Passwordless authentication . This command used to generate a public / private authentication key pairs, Authentication key pairs alow a user to connect to a remote              system without supplying password.
+Traceroute : Traceroute is a network trouble shooting utility which shows no.of hopes to taken to reach the destination and also determine the packets travelling.
+DIG : Domain Information Groper related to DNS related query.
+NSLOOKUP : Command used to find out DNS related query.
+Route : Command shows and manipulate IP routing table.
+Host : Host command used to find a name to IP.
+ETHTOOL : ethtool is a replacement of mii-tool.It is to view,setting speed and duplex of your Network Interface Card.
+IWCONFIG : Used to configure a wireless network interface.
+Hostname : Hostname is used to identify name in a network.
+Alias : alias replace one string from the shell with another string.It converts a complicated command into a simpler command or in oterwords it creates a shortcut by replacing           it with a simpler one.
+chmod : change modifications for user or group.
 
