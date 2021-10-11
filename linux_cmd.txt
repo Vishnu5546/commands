@@ -86,3 +86,26 @@ ls -R : list all sub-directories inside the directory.
 ls -r : list all files in reverse order.
 ls -ls : Display files based on the size.
 logout : logout from the terminal.
+Alt+u : Capitalize every character from the cursor position.
+Alt+l : Uncapitalize every character from the cursor position.
+Alt+c : Capitalize every first character from the cursor position.
+Ctrl+l : Clear the screen
+Ctrl+d : Exit the current Shell (Logout).
+Ctrl+c : Interrupt the current foreground process.
+Ctrl+z : Suspend the current foreground process running in bash.
+Crtl+d : Delete the character after the cursor position.
+Ctrl+h : Delete the character before the cursor position.
+Alt+d : Delete the word after the cursor position.
+Ctrl+u : Cut the line before the cursor position. 
+Ctrl+r : Bring-up the history search
+Ctrl+g : Ext from the history search.
+Ctrl+p : See the previous command in the history.
+Ctrl+n : See the next command in the history.
+wc : Used to check word count.
+wc -l : Num of lines in a file.
+wc -w : Num of words in a file.
+wc -c : Num of characters in a file.
+more : Command used to print the context in multiple pages.
+less : Command used to print the context in one page at a time.
+free : Used to check the RAM Memory.
+
