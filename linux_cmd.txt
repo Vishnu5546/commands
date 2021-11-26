@@ -79,6 +79,7 @@ uname -i : To check architecture whether it is 32 bit or 64 bit.
 Ctrl+a : To go to the begining of a line.
 Ctrl+e : To go to the end of a line.
 Ctrl+x Toggle between current cursor position and begining of the line.
+Thanks
 Alt+x : Move the cursor forward one word.
 Alt+b : Move the cursor backward one word.
 Ctrl+f : Move the cursor forword one character.
