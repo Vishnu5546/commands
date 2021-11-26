@@ -33,6 +33,7 @@ Sighup : Usually every process in the linux system is a SIGHUP ( Signal HangUp) 
 Nohup : Responsible for runs the process even after closing the terminal.
 type : To display command's type
 which : To display an executable location
+These are linux commands
 man : To display program's manual page
 crontab : crontab is a schedular which is used to schedule the jobs.
 ln-s : to create a soft link
